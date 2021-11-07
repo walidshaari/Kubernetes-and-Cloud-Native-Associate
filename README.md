@@ -76,6 +76,9 @@ Online curated resources that will help you prepare for taking the Kubernetes an
 
 ### Slack
 
+1. [Kubernetes Community - #kcna-exam-prep](https://kubernetes.slack.com)
+1. [Kubernauts Community ](https://kubernauts-slack-join.herokuapp.com/)
+2. [Saiyam's Pathak OpenSource Discord](https://discord.gg/9PQBYKntPR)
 
 ### Books
 
