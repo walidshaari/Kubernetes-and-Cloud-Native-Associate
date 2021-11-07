@@ -38,10 +38,41 @@ Online curated resources that will help you prepare for taking the Kubernetes an
 
 ### Kubernetes Fundamentals - 46%
 
-1. [Topic 1](link)
-2. [Topic 2](link 2)
+1. [Kubernetes Resources](link)
+2. [Kubernetes Architecture](link)
+3. [Kubernetes API](link)
+4. [Containers](link)
+5. [Scheduling](link)
 
 
+### Container Orchestration - 22%
+
+1. [Container Orchestration Fundamentals](link)
+2. [Runtime](link)
+3. [Security](link)
+4. [Networking](link)
+5. [Service Mesh](link)
+6. [Storage](link)
+
+### Cloud Native Architecture - 16%
+
+1. [Autoscaling](link)
+2. [Serverless](link)
+3. [Community and Governance](link)
+4. [Personas](link)
+5. [Open Standards](link)
+
+### Cloud Native Observability - 8%
+
+1. [Telemetry & Observability](link)
+2. [Prometheus](link)
+3. [Cost Management](link)
+
+### Cloud Native Application Delivery - 8%
+
+1. [Application Delivery Fundamentals](link)
+2. [GitOps](link)
+3. [CI/CD](link)
 
 ### Slack
 
