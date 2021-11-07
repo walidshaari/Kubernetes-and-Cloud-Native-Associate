@@ -2,7 +2,10 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 # Kubernetes-and-Cloud-Native-Associate
-Kubernetes and Cloud Native Associate KCNA
+
+<p align="center">
+  <img width="360" src="KCNA-logo.png">
+</p>
 
 Online curated resources that will help you prepare for taking the Kubernetes and Cloud Native Associate **KCNA** Certification exam.
 
