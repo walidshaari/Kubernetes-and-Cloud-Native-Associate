@@ -11,8 +11,7 @@ Online curated resources that will help you prepare for taking the Kubernetes an
 
 - Please raise an issue, or make a pull request for fixes, new additions, or updates.
 
-
-## Exam Brief 
+## Exam Brief
 
 - Duration : one and a half (1.5) hours
 <!-- Number of questions : ??? Multiple choice questions -->
@@ -25,19 +24,19 @@ Online curated resources that will help you prepare for taking the Kubernetes an
 
 ## KCNA repo topics overview
 
-  - [X] [Kubernetes Fundamentals - 46%](#kubernetes-fundamentals---46)
-  - [X] [Container Orchestration - 22%](#containerr-orchestration---22)
-  - [X] [Cloud Native Architecture - 16%](#cloud-native-architecture---16)
-  - [X] [Cloud Native Observability - 8%](#cloud-native-observability---8)
-  - [X] [Cloud Native Application Delivery - 8%](#cloud-native-application-delivery---8)
+- [X] [Kubernetes Fundamentals - 46%](#kubernetes-fundamentals---46)
+- [X] [Container Orchestration - 22%](#containerr-orchestration---22)
+- [X] [Cloud Native Architecture - 16%](#cloud-native-architecture---16)
+- [X] [Cloud Native Observability - 8%](#cloud-native-observability---8)
+- [X] [Cloud Native Application Delivery - 8%](#cloud-native-application-delivery---8)
 
-  #### Extra helpful materials
+#### Extra helpful materials
 
-   - [x] [Slack](#slack)
-  - [x] [Books](#books)
-  - [x] [Youtube Videos](#youtube-videos)
-  - [x] [Webinars](#webinars)
-  - [x] [Extra Kubernetes security resources](generic-kubernetes-containers-security/Kubernetes.md)
+- [x] [Slack](#slack)
+- [x] [Books](#books)
+- [x] [Youtube Videos](#youtube-videos)
+- [x] [Webinars](#webinars)
+- [x] [Extra Kubernetes security resources](generic-kubernetes-containers-security/Kubernetes.md)
 
 ### Kubernetes Fundamentals - 46%
 
@@ -46,7 +45,6 @@ Online curated resources that will help you prepare for taking the Kubernetes an
 3. [Kubernetes API](link)
 4. [Containers](link)
 5. [Scheduling](link)
-
 
 ### Container Orchestration - 22%
 
@@ -80,13 +78,11 @@ Online curated resources that will help you prepare for taking the Kubernetes an
 ### Slack
 
 1. [Kubernetes Community - #kcna-exam-prep](https://kubernetes.slack.com)
-1. [Kubernauts Community ](https://kubernauts-slack-join.herokuapp.com/)
+1. [Kubernetes Community](https://kubernauts-slack-join.herokuapp.com/)
 2. [Saiyam's Pathak OpenSource Discord](https://discord.gg/9PQBYKntPR)
 
 ### Books
 
-
 ### Youtube Videos
-
 
 #### Other Kubernetes related repos
