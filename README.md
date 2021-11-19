@@ -84,5 +84,6 @@ Online curated resources that will help you prepare for taking the Kubernetes an
 ### Books
 
 ### Youtube Videos
+1. [SAIM cloudnative fmpodcast Deep Dive KCNA Exam episode 31](https://youtu.be/wPbsvF_SGmc)
 
 #### Other Kubernetes related repos
