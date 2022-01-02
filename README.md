@@ -71,9 +71,13 @@ Online curated resources that will help you prepare for taking the Kubernetes an
 
 ### Cloud Native Application Delivery - 8%
 
-1. [Application Delivery Fundamentals](link)
-2. [GitOps](link)
-3. [CI/CD](link)
+1. Application Delivery Fundamentals
+   - [CNCF Application Delivery Technical Advisory Group "TAG" ](https://github.com/cncf/toc/blob/1f7c705ffc9d2a3fb69ea735986f07cdcb1b008e/tags/app-delivery.md)
+1. GitOps
+   -  [Linux Foundation free gitops introduction course](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/)
+   -  [Codefresh free Gitops certification and course](https://codefresh.learnworlds.com/)
+1. CI/CD
+    -  [CNCF free CI/CD with Kuberentes book](https://www.cncf.io/free-ebook-ci-cd-with-kubernetes/)
 
 ### Slack
 
