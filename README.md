@@ -90,4 +90,7 @@ Online curated resources that will help you prepare for taking the Kubernetes an
 ### Youtube Videos
 1. [SAIM cloudnative fmpodcast Deep Dive KCNA Exam episode 31](https://youtu.be/wPbsvF_SGmc)
 
-#### Other Kubernetes related repos
+#### Blogs and writeups
+- https://blog.bradmccoy.io/how-to-pass-your-kcna-exam-cf98cfa7d70f
+- https://medium.com/@marino.wijay/the-kcna-exam-a-quick-guide-to-kicking-off-your-k8s-and-cloud-native-journey-56a3a5be345
+
