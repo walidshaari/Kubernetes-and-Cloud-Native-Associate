@@ -7,7 +7,7 @@
   <img width="360" src="KCNA-logo.png">
 </p>
 
-Online curated resources that will help you prepare for taking the Kubernetes and Cloud Native Associate **KCNA** Certification exam.
+Online curated resources that will help you prepare for taking the [Kubernetes and Cloud Native Associate **KCNA** Certification](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) exam.
 
 - Please raise an issue, or make a pull request for fixes, new additions, or updates.
 
@@ -21,11 +21,22 @@ Online curated resources that will help you prepare for taking the Kubernetes an
 - Cost: $250 USD, One (1) year exam eligibility, with a free retake within the year.
 
   *Linux Foundation offer several discounts around the year e.g. CyberMonday, Kubecon attendees among other special holidays/events*
+  
+## Qucik preps:
+- First, a history and background
+  - Cloud Natvie Computing Foundation conext from a CNCF legend Dan Kohn in less than 10 minutes [Keynote: Stitching Things Together – Dan Kohn, Executive Director, Cloud Native Computing Foundation](https://youtu.be/lmGFgZ889kY)
 
-## KCNA repo topics overview
+### Cloud native definition
+- Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and **declarative APIs** exemplify this approach.
+
+- These techniques enable loosely coupled systems that are **resilient**, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.
+
+The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, **vendor-neutral** projects. We democratize state-of-the-art patterns to make these innovations accessible for everyone.
+
+## KCNA curiculim repo topics overview
 
 - [X] [Kubernetes Fundamentals - 46%](#kubernetes-fundamentals---46)
-- [X] [Container Orchestration - 22%](#containerr-orchestration---22)
+- [X] [Container Orchestration - 22%](#container-orchestration---22)
 - [X] [Cloud Native Architecture - 16%](#cloud-native-architecture---16)
 - [X] [Cloud Native Observability - 8%](#cloud-native-observability---8)
 - [X] [Cloud Native Application Delivery - 8%](#cloud-native-application-delivery---8)
