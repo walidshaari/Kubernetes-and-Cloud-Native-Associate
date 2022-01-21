@@ -29,8 +29,12 @@ Online curated resources that will help you prepare for taking the [Kubernetes a
 ### Repo Strategy (My opinion on what is important)
 This is a good start into cloud-native and Kubernetes journey, it won't gurantee you a [job or salary increase](https://kube.careers/report-2021-q4#:~:text=for%20Kubernetes%20jobs%3F-,Not%20much%2C%20it%20seems.,-Of%20all%20the). your goal should be to learn more about cloud-native computing foundation CNCF, and Kubernetes eco-systems and how that might help you in your career or hobbies.
 - Join a cncf community, local or virtual, be part of the cncf community
-- Understand and learn the basics
+- Understand and learn the basics:
   - Nana and Amigoscode created a 4 hour video covering (Docker and Kubernetes)[https://youtu.be/bhBSlnQcq2k]  
+- Ensure you start early in understanding and applying best practices:
+  - [Container image build best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+  - 
+
 - Get more overview of the CNCF ecosystem
   - [The CNCF Glossary](https://glossary.cncf.io/)
   - Saiyam Pathak [CNCF minutes](https://www.youtube.com/playlist?list=PL5uLNcv9SibB658blGUEv18IhcMGL0dxC)
@@ -39,8 +43,9 @@ This is a good start into cloud-native and Kubernetes journey, it won't gurantee
 - Understand and learn the history, differences and special use cases espically for CNCF projects
   - For example Docker vs. Containerd vs. CRI-o, and other container runtimes e.g. rkt, gvisor, kata.
   - The different Gitops engines: Flusk, ArgoCD, Fleet
-
+- Don't stop learning and always be curious
 Another opinion:  Saiyam KCNA Kubernetes and cloud native associate certification https://youtu.be/iGkFHB1kFZ0
+
 
 
 ### Cloud native definition
@@ -66,13 +71,15 @@ The Cloud Native Computing Foundation seeks to drive adoption of this paradigm b
 - [x] [Webinars](#webinars)
 - [x] [Extra Kubernetes security resources](generic-kubernetes-containers-security/Kubernetes.md)
 
-### Kubernetes Fundamentals - 46%
+### [Kubernetes Fundamentals](https://kubernetes.io/docs/concepts/) - 46%
 
-1. [Kubernetes Resources](link)
-2. [Kubernetes Architecture](link)
-3. [Kubernetes API](link)
-4. [Containers](link)
-5. [Scheduling](link)
+1. Kubernetes Resources
+2. - `kubectl api-resources`
+3. - [Ivan Velichko Working with Kubernetes API](https://iximiuz.com/en/series/working-with-kubernetes-api/)
+4. Kubernetes Architecture
+5. Kubernetes API
+6. Containers
+7. [Scheduling](https://kubernetes.io/docs/concepts/scheduling-eviction/)
 
 ### Container Orchestration - 22%
 
@@ -113,10 +120,10 @@ The Cloud Native Computing Foundation seeks to drive adoption of this paradigm b
 1. [Kubernetes Community](https://kubernauts-slack-join.herokuapp.com/)
 2. [Saiyam's Pathak OpenSource Discord](https://discord.gg/9PQBYKntPR)
 
-### Books
-
+### Other Repos
+- 
 ### Youtube Videos
-1. [SAIM cloudnative fmpodcast Deep Dive KCNA Exam episode 31](https://youtu.be/wPbsvF_SGmc)
+1. [Saim cloud-native fmpodcast Deep Dive KCNA Exam episode 31](https://youtu.be/wPbsvF_SGmc)
 
 #### Blogs and writeups
 - https://blog.bradmccoy.io/how-to-pass-your-kcna-exam-cf98cfa7d70f
