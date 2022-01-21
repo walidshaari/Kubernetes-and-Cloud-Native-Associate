@@ -26,6 +26,23 @@ Online curated resources that will help you prepare for taking the [Kubernetes a
 - First, a history and background
   - Cloud Natvie Computing Foundation conext from a CNCF legend Dan Kohn in less than 10 minutes [Keynote: Stitching Things Together – Dan Kohn, Executive Director, Cloud Native Computing Foundation](https://youtu.be/lmGFgZ889kY)
 
+### Repo Strategy (My opinion on what is important)
+This is a good start into cloud-native and Kubernetes journey, it won't gurantee you a [job or salary increase](https://kube.careers/report-2021-q4#:~:text=for%20Kubernetes%20jobs%3F-,Not%20much%2C%20it%20seems.,-Of%20all%20the). your goal should be to learn more about cloud-native computing foundation CNCF, and Kubernetes eco-systems and how that might help you in your career or hobbies.
+- Join a cncf community, local or virtual, be part of the cncf community
+- Understand and learn the basics
+  - Nana and Amigoscode created a 4 hour video covering (Docker and Kubernetes)[https://youtu.be/bhBSlnQcq2k]  
+- Get more overview of the CNCF ecosystem
+  - [The CNCF Glossary](https://glossary.cncf.io/)
+  - Saiyam Pathak [CNCF minutes](https://www.youtube.com/playlist?list=PL5uLNcv9SibB658blGUEv18IhcMGL0dxC)
+  - Blog posts
+
+- Understand and learn the history, differences and special use cases espically for CNCF projects
+  - For example Docker vs. Containerd vs. CRI-o, and other container runtimes e.g. rkt, gvisor, kata.
+  - The different Gitops engines: Flusk, ArgoCD, Fleet
+
+Another opinion:  Saiyam KCNA Kubernetes and cloud native associate certification https://youtu.be/iGkFHB1kFZ0
+
+
 ### Cloud native definition
 - Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and **declarative APIs** exemplify this approach.
 
