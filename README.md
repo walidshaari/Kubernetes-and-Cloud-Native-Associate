@@ -34,8 +34,7 @@ This is a good start into cloud-native and Kubernetes journey, it won't gurantee
   - Nana and Amigoscode created a 4 hour video covering (Docker and Kubernetes)[https://youtu.be/bhBSlnQcq2k]  
 - Ensure you start early in understanding and applying best practices:
   - [Container image build best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-  - 
-
+  
 - Get more overview of the CNCF ecosystem
   - [The CNCF Glossary](https://glossary.cncf.io/)
   - Saiyam Pathak [CNCF minutes](https://www.youtube.com/playlist?list=PL5uLNcv9SibB658blGUEv18IhcMGL0dxC)
@@ -85,9 +84,9 @@ The Cloud Native Computing Foundation seeks to drive adoption of this paradigm b
 ### Container Orchestration - 22%
 
 1. [Container Orchestration Fundamentals](link)
-2. [Runtime](link)
-3. [Security](link)
-4. [Networking](link)
+2. [Runtime]
+3. [Security]
+4. [Networking]()
 5. [Service Mesh](link)
 6. [Storage](link)
 
@@ -125,6 +124,8 @@ The Cloud Native Computing Foundation seeks to drive adoption of this paradigm b
 - [UDEMY Kubernetes and Cloud Native Associate (KCNA) Practice Exams](https://www.udemy.com/course/kubernetes-and-cloud-native-associate-kcna/)
 - [Linux Foundation Kubernetes and Cloud Native Essentials (LFS250)](https://training.linuxfoundation.org/training/kubernetes-and-cloud-native-essentials-lfs250/)
 - [Exampro.co course and practice exams](https://www.exampro.co/)  -- in-progress, should be out first-second week of Feburary 2022, watch this space
+- [VMware Kube Academy](https://kube.academy/)
+- [CIVO k8s Acadmey](https://www.civo.com/academy)
 
 ### Other Repos
 - [Mohamed Abukar, AWS community builder KCNA repo](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
