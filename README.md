@@ -15,12 +15,13 @@ Online curated resources that will help you prepare for taking the [Kubernetes a
 
 - Duration : one and a half (1.5) hours
 <!-- Number of questions : ??? Multiple choice questions -->
-- Passing score: 67%
+- Passing score: 75%
 - Certification validity: three (3) years
 - Prerequisite: None
 - Cost: $250 USD, One (1) year exam eligibility, with a free retake within the year.
+- General idea, What is the exam all about? and what was its objectives? [Katie Gamanji interview by TFIR/Swapnil](https://youtu.be/riUxKl95Ebs)
 
-  *Linux Foundation offer several discounts around the year e.g. CyberMonday, Kubecon attendees among other special holidays/events*
+  *Linux Foundation offer several discounts around the year, try to check first if there is a discount. e.g. CyberMonday, Kubecon attendees among other special holidays/events*
   
 ## Qucik preps:
 - First, a history and background
@@ -120,8 +121,13 @@ The Cloud Native Computing Foundation seeks to drive adoption of this paradigm b
 1. [Kubernetes Community](https://kubernauts-slack-join.herokuapp.com/)
 2. [Saiyam's Pathak OpenSource Discord](https://discord.gg/9PQBYKntPR)
 
+### Training and practice exams:
+- [UDEMY Kubernetes and Cloud Native Associate (KCNA) Practice Exams](https://www.udemy.com/course/kubernetes-and-cloud-native-associate-kcna/)
+- [Linux Foundation Kubernetes and Cloud Native Essentials (LFS250)](https://training.linuxfoundation.org/training/kubernetes-and-cloud-native-essentials-lfs250/)
+- [Exampro.co course and practice exams](https://www.exampro.co/)  -- in-progress, should be out first-second week of Feburary 2022, watch this space
+
 ### Other Repos
-- 
+- [Mohamed Abukar, AWS community builder KCNA repo](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
 ### Youtube Videos
 1. [Saim cloud-native fmpodcast Deep Dive KCNA Exam episode 31](https://youtu.be/wPbsvF_SGmc)
 
