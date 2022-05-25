@@ -23,15 +23,15 @@ Online curated resources that will help you prepare for taking the [Kubernetes a
 
   *Linux Foundation offer several discounts around the year, try to check first if there is a discount. e.g. CyberMonday, Kubecon attendees among other special holidays/events*
   
-## Qucik preps:
+## Quick preps:
 - First, a history and background
-  - Cloud Natvie Computing Foundation conext from a CNCF legend Dan Kohn in less than 10 minutes [Keynote: Stitching Things Together – Dan Kohn, Executive Director, Cloud Native Computing Foundation](https://youtu.be/lmGFgZ889kY)
+  - Cloud Native Computing Foundation context from a CNCF legend Dan Kohn, in less than 10 minutes [Keynote: Stitching Things Together – Dan Kohn, Executive Director, Cloud Native Computing Foundation](https://youtu.be/lmGFgZ889kY)
 
 ### Repo Strategy (My opinion on what is important)
-This is a good start into cloud-native and Kubernetes journey, it won't gurantee you a [job or salary increase](https://kube.careers/report-2021-q4#:~:text=for%20Kubernetes%20jobs%3F-,Not%20much%2C%20it%20seems.,-Of%20all%20the). your goal should be to learn more about cloud-native computing foundation CNCF, and Kubernetes eco-systems and how that might help you in your career or hobbies.
-- Join a cncf community, local or virtual, be part of the cncf community
+This is a good start into Cloud Native and Kubernetes journey; it won't guarantee you a [job or salary increase](https://kube.careers/report-2021-q4#:~:text=for%20Kubernetes%20jobs%3F-,Not%20much%2C%20it%20seems.,-Of%20all%20the). Your goal should be to learn more about cloud-native computing foundation CNCF, and Kubernetes eco-systems and how that might help you in your career or hobbies.
+- Join a CNCF community, local or virtual, be part of the CNCF community
 - Understand and learn the basics:
-  - Nana and Amigoscode created a 4 hour video covering (Docker and Kubernetes)[https://youtu.be/bhBSlnQcq2k]  
+  - Nana and Amigoscode created a 4-hour video covering (Docker and Kubernetes)[https://youtu.be/bhBSlnQcq2k]  
 - Ensure you start early in understanding and applying best practices:
   - [Container image build best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
   
@@ -40,22 +40,22 @@ This is a good start into cloud-native and Kubernetes journey, it won't gurantee
   - Saiyam Pathak [CNCF minutes](https://www.youtube.com/playlist?list=PL5uLNcv9SibB658blGUEv18IhcMGL0dxC)
   - Blog posts
 
-- Understand and learn the history, differences and special use cases espically for CNCF projects
+- Understand and learn the history, differences and special use cases especially for CNCF projects
   - For example Docker vs. Containerd vs. CRI-o, and other container runtimes e.g. rkt, gvisor, kata.
   - The different Gitops engines: Flusk, ArgoCD, Fleet
 - Don't stop learning and always be curious
-Another opinion:  Saiyam KCNA Kubernetes and cloud native associate certification https://youtu.be/iGkFHB1kFZ0
+Another opinion:  Saiyam KCNA Kubernetes and Cloud Native Associate certification https://youtu.be/iGkFHB1kFZ0
 
 
 
-### Cloud native definition
-- Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and **declarative APIs** exemplify this approach.
+### Cloud Native definition
+- Cloud Native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and **declarative APIs** exemplify this approach.
 
-- These techniques enable loosely coupled systems that are **resilient**, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.
+- These techniques enable loosely-coupled systems that are **resilient**, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.
 
 The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, **vendor-neutral** projects. We democratize state-of-the-art patterns to make these innovations accessible for everyone.
 
-## KCNA curiculim repo topics overview
+## KCNA curriculum repo topics overview
 
 - [X] [Kubernetes Fundamentals - 46%](#kubernetes-fundamentals---46)
 - [X] [Container Orchestration - 22%](#container-orchestration---22)
@@ -109,7 +109,7 @@ The Cloud Native Computing Foundation seeks to drive adoption of this paradigm b
 1. Application Delivery Fundamentals
    - [CNCF Application Delivery Technical Advisory Group "TAG" ](https://github.com/cncf/toc/blob/1f7c705ffc9d2a3fb69ea735986f07cdcb1b008e/tags/app-delivery.md)
 1. GitOps
-   -  [Linux Foundation free gitops introduction course](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/)
+   -  [Linux Foundation free Gitops introduction course](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/)
    -  [Codefresh free Gitops certification and course](https://codefresh.learnworlds.com/)
 1. CI/CD
     -  [CNCF free CI/CD with Kuberentes book](https://www.cncf.io/free-ebook-ci-cd-with-kubernetes/)
@@ -125,7 +125,7 @@ The Cloud Native Computing Foundation seeks to drive adoption of this paradigm b
 - [Linux Foundation Kubernetes and Cloud Native Essentials (LFS250)](https://training.linuxfoundation.org/training/kubernetes-and-cloud-native-essentials-lfs250/)
 - [Exampro.co course and practice exams](https://www.exampro.co/)  -- in-progress, should be out first-second week of Feburary 2022, watch this space
 - [VMware Kube Academy](https://kube.academy/)
-- [CIVO k8s Acadmey](https://www.civo.com/academy)
+- [CIVO k8s Academy](https://www.civo.com/academy)
 
 ### Other Repos
 - [Mohamed Abukar, AWS community builder KCNA repo](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
